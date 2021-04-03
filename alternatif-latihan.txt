@@ -3,3 +3,4 @@ ini tambahan dari alternatif latihan ke2 (commit ke2)
 ini tambahan dari alternatif setelah dilakukan merge 
 phyon
 java
+anak ayam
