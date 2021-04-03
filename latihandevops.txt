@@ -1,4 +1,4 @@
 latihan github devops
 - wpunpas
 - git tutorial
-- mengedit dan menambahkan txt baru
+- menghapus yg ditambahkan dan tambah yang lain
